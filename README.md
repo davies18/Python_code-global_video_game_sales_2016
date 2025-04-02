@@ -40,7 +40,7 @@ This project analyzes video game sales data from a CSV file to determine if the 
 2.  Navigate to the project directory:
 
     ```bash
-    cd <https://github.com/davies18/Python_code-global_video_game_sales_2016/blob/main/Python_Code_Video_Game_Sales.html>
+    cd <project_directory>
     ```
 
 3.  Install the required Python libraries:
